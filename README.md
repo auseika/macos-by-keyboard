@@ -1,6 +1,10 @@
 # Што гэта?
 Дэфолтная беларуская раскладка macOS, але з БЧБ сцягам
+
 # Як паставіць?
-- Закінуць *BelarusianWRW.icns* і *BelarusianWRW.keylayout* у *system_disc_name/Library/Keyboard Layouts*
-- Абраць новую раскладку стандартным шляхам *(Input Sources -> Others)*
-- Калі клавіятура не бачная ў спісе - *Log Out/Log In ці Restart*
+- Закінуць _BelarusianWRW.icns_ і _BelarusianWRW.keylayout_ у _system_disc_name/Library/Keyboard Layouts_
+- Абраць новую раскладку стандартным шляхам _(Input Sources -> Others)_
+- Калі клавіятура не бачная ў спісе - _Log Out/Log In ці Restart_
+
+# Known Issues
+- Немагчымасць пераключаць раскладку праз CapsLock
