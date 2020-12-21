@@ -3,4 +3,4 @@
 
 # Як паставіць?
 - Адкрыць *Belarusian.dmg*, клікнуць на *Belarusian.bundle*, паставіць раскладку
-- Стандартным шляхам абраць новую клавіятуру ў *System Preferences/Keyboard/Input Sources*
+- Стандартным шляхам абраць новую клавіятуру ў *System Preferences/Keyboard/Input Sources* (там жа, дзе звычайная беларуская мова з ЧЗ)
