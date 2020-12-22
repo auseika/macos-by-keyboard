@@ -1,3 +1,5 @@
+[Спампаваць/Download](https://github.com/auseika/macos-by-keyboard/raw/main/Belarusian.dmg)
+
 # Што гэта?
 Дэфолтная беларуская раскладка macOS, але з БЧБ сцягам
 
