@@ -7,22 +7,22 @@
 	<key>CFBundleName</key>
 	<string>Belarusian</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
-	<key>KLInfo_ABC</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<true/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.belarusian-en.abc</string>
-		<key>TISIntendedLanguage</key>
-		<string>en</string>
-	</dict>
+	<string>3</string>
 	<key>KLInfo_Belarusian</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.belarusian-en.belarusian</string>
+		<key>TISIntendedLanguage</key>
+		<string>be</string>
+	</dict>
+	<key>KLInfo_Belarusian - PC</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.belarusian-en.belarusian-pc</string>
 		<key>TISIntendedLanguage</key>
 		<string>be</string>
 	</dict>
