@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by https://github.com/auseika-->
-<!--Last edited by Ukelele version 339 on 2020-12-23 at 06:26 (GMT+3)-->
-<keyboard group="7" id="19790" name="Belarusian WRW" maxout="1">
+<!--Last edited by Ukelele version 339 on 2020-12-23 at 06:36 (GMT+3)-->
+<keyboard group="7" id="19790" name="Belarusian" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
     </layouts>
