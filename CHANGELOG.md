@@ -9,3 +9,4 @@
 - Belarusian - PC layout
 - New, more default-looking icon
 - Removed trash from bundle (duplicated ABC layout)
+- Layout name locales for be and ru
