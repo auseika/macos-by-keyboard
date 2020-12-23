@@ -1,4 +1,4 @@
-[Спампаваць/Download](./Belarusian.dmg)
+[Спампаваць/Download](./Belarusian.dmg?raw=true)
 
 # Што гэта?
 Дэфолтная беларуская раскладка macOS, але з БЧБ сцягам, беларуская PC раскладка
