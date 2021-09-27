@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by https://github.com/auseika&#x000A;-->
-<!--Last edited by Ukelele version 339 on 2020-12-23 at 06:37 (GMT+3)-->
-<keyboard group="7" id="19513" name="Belarusian - PC" maxout="1">
+<!--Last edited by Ukelele version 339 on 2021-09-27 at 18:41 (CEST)-->
+<keyboard group="7" id="19715" name="Belarusian - PC" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="410" modifiers="308"/>
         <layout first="1" last="3" mapSet="e2c" modifiers="308"/>
@@ -417,7 +417,7 @@
             <key code="8" output="c"/>
             <key code="9" output="v"/>
             <key code="10" output="§"/>
-            <key code="11" output="і"/>
+            <key code="11" output="и"/>
             <key code="12" output="ј"/>
             <key code="13" output="џ"/>
             <key code="14" output="ў"/>
@@ -526,7 +526,7 @@
             <key code="8" output="C"/>
             <key code="9" output="V"/>
             <key code="10" output="±"/>
-            <key code="11" output="І"/>
+            <key code="11" output="И"/>
             <key code="12" output="Ј"/>
             <key code="13" output="Џ"/>
             <key code="14" output="Ў"/>
@@ -744,7 +744,7 @@
             <key code="8" output="С"/>
             <key code="9" output="М"/>
             <key code="10" output="Ё"/>
-            <key code="11" output="И"/>
+            <key code="11" output="І"/>
             <key code="12" output="Й"/>
             <key code="13" output="Ц"/>
             <key code="14" output="У"/>
@@ -763,8 +763,8 @@
             <key code="27" output="_"/>
             <key code="28" output="*"/>
             <key code="29" output=")"/>
-            <key code="30" output="Ъ"/>
-            <key code="31" output="Щ"/>
+            <key code="30" output="&#x0027;"/>
+            <key code="31" output="Ў"/>
             <key code="32" output="Г"/>
             <key code="33" output="Х"/>
             <key code="34" output="Ш"/>
@@ -962,7 +962,7 @@
             <key code="8" output="С"/>
             <key code="9" output="М"/>
             <key code="10" output="Ё"/>
-            <key code="11" output="И"/>
+            <key code="11" output="І"/>
             <key code="12" output="Й"/>
             <key code="13" output="Ц"/>
             <key code="14" output="У"/>
@@ -981,8 +981,8 @@
             <key code="27" output="-"/>
             <key code="28" output="8"/>
             <key code="29" output="0"/>
-            <key code="30" output="Ъ"/>
-            <key code="31" output="Щ"/>
+            <key code="30" output="&#x0027;"/>
+            <key code="31" output="Ў"/>
             <key code="32" output="Г"/>
             <key code="33" output="Х"/>
             <key code="34" output="Ш"/>
@@ -1071,7 +1071,7 @@
             <key code="8" output="C"/>
             <key code="9" output="V"/>
             <key code="10" output="§"/>
-            <key code="11" output="І"/>
+            <key code="11" output="И"/>
             <key code="12" output="Ј"/>
             <key code="13" output="Џ"/>
             <key code="14" output="Ў"/>
