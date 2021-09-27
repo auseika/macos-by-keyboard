@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>Belarusian</string>
 	<key>CFBundleVersion</key>
-	<string>3</string>
+	<string>4</string>
 	<key>KLInfo_Belarusian</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
