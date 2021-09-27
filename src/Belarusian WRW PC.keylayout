@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by https://github.com/auseika&#x000A;-->
-<!--Last edited by Ukelele version 339 on 2021-09-27 at 18:26 (CEST)-->
+<!--Last edited by Ukelele version 339 on 2021-09-27 at 18:41 (CEST)-->
 <keyboard group="7" id="19715" name="Belarusian - PC" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="410" modifiers="308"/>
@@ -417,7 +417,7 @@
             <key code="8" output="c"/>
             <key code="9" output="v"/>
             <key code="10" output="§"/>
-            <key code="11" output="і"/>
+            <key code="11" output="и"/>
             <key code="12" output="ј"/>
             <key code="13" output="џ"/>
             <key code="14" output="ў"/>
@@ -526,7 +526,7 @@
             <key code="8" output="C"/>
             <key code="9" output="V"/>
             <key code="10" output="±"/>
-            <key code="11" output="І"/>
+            <key code="11" output="И"/>
             <key code="12" output="Ј"/>
             <key code="13" output="Џ"/>
             <key code="14" output="Ў"/>
@@ -1071,7 +1071,7 @@
             <key code="8" output="C"/>
             <key code="9" output="V"/>
             <key code="10" output="§"/>
-            <key code="11" output="І"/>
+            <key code="11" output="И"/>
             <key code="12" output="Ј"/>
             <key code="13" output="Џ"/>
             <key code="14" output="Ў"/>
