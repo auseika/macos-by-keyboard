@@ -10,3 +10,6 @@
 - New, more default-looking icon
 - Removed trash from bundle (duplicated ABC layout)
 - Layout name locales for be and ru
+
+- # v.4 (27.09.2021)
+- Fixed caps/option modificators for PC layout
